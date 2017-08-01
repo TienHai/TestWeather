@@ -1,0 +1,7 @@
+#Tue Aug 01 10:15:07 CEST 2017
+base.0=/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9d4b3683029c20bfc4f172f2d02d2f2ec91ff966
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_392fb6f8487f367839a9a7c7e5debed65d2474a2/classes.dex
+base.1=/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_392fb6f8487f367839a9a7c7e5debed65d2474a2
+file.0=/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9d4b3683029c20bfc4f172f2d02d2f2ec91ff966/classes.dex

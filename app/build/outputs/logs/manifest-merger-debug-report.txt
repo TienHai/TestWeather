@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/tien/.android/build-cache/e57b4852672919e397eb0110c7a0819645e96697/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/tien/.android/build-cache/534b01deaf6405e4b42664d25e0872aa8bcdcc7a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/tien/.android/build-cache/e7f46ffdde963640f9aa0434f3db464bb30d7d95/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/tien/.android/build-cache/c04acd72746e265a4fd704591f5cb691003e4d50/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/tien/.android/build-cache/12cf03086d520de27876f179d3657af2419d161c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/tien/.android/build-cache/e973482d7177f279626f998cc0b6e3654e8f1ddb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/tien/.android/build-cache/2173ce0929ddf00dfc3245ad39219f3d352775f1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/tien/.android/build-cache/4769765b5fff8f86fab44fa078e0dc60b9d21275/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tien/.android/build-cache/66b382fe5ca2cae94e302fac863fcba511d63a95/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:13:9-40
+activity#fr.nguyen.weather.MainActivity
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:18:27-74
+activity#fr.nguyen.weather.DetailActivity
+ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:21:9-23:75
+	android:parentActivityName
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml:22:13-43
+uses-sdk
+INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/tien/.android/build-cache/e57b4852672919e397eb0110c7a0819645e96697/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/tien/.android/build-cache/534b01deaf6405e4b42664d25e0872aa8bcdcc7a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/tien/.android/build-cache/e7f46ffdde963640f9aa0434f3db464bb30d7d95/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/tien/.android/build-cache/c04acd72746e265a4fd704591f5cb691003e4d50/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/tien/.android/build-cache/12cf03086d520de27876f179d3657af2419d161c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/tien/.android/build-cache/e973482d7177f279626f998cc0b6e3654e8f1ddb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/tien/.android/build-cache/2173ce0929ddf00dfc3245ad39219f3d352775f1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/tien/.android/build-cache/4769765b5fff8f86fab44fa078e0dc60b9d21275/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tien/.android/build-cache/66b382fe5ca2cae94e302fac863fcba511d63a95/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /data/WorkInProgress/Kotlin/Weather/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/tien/.android/build-cache/e57b4852672919e397eb0110c7a0819645e96697/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/tien/.android/build-cache/534b01deaf6405e4b42664d25e0872aa8bcdcc7a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/tien/.android/build-cache/e7f46ffdde963640f9aa0434f3db464bb30d7d95/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/tien/.android/build-cache/c04acd72746e265a4fd704591f5cb691003e4d50/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/tien/.android/build-cache/12cf03086d520de27876f179d3657af2419d161c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/tien/.android/build-cache/e973482d7177f279626f998cc0b6e3654e8f1ddb/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/tien/.android/build-cache/2173ce0929ddf00dfc3245ad39219f3d352775f1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/tien/.android/build-cache/4769765b5fff8f86fab44fa078e0dc60b9d21275/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/AndroidManifest.xml:26:9-47

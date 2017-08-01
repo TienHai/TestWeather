@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9d4b3683029c20bfc4f172f2d02d2f2ec91ff966/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5fd00af6e2714ea42c0c7e26b1cff5ff69dfd726">
+        <dex dex="/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_392fb6f8487f367839a9a7c7e5debed65d2474a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tien/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.1.1/ab19bfb23f641f189b6dca9a4d393f8dc291103a/picasso-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.1.1_231fb6c9e2a4daa9fa8ae00faa7a21e1eb4093ea/classes.dex" />
+    </item>
+
+</items>

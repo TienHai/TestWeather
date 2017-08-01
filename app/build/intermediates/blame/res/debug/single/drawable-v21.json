@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

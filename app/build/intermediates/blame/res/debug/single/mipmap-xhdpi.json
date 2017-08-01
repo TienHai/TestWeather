@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/data/WorkInProgress/Kotlin/Weather/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/data/WorkInProgress/Kotlin/Weather/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

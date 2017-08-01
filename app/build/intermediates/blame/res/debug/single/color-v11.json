@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Weather/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
